@@ -6,6 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    font-family: 'Roboto', sans-serif;
 }
 .post {
     width: 500px; 
@@ -55,6 +56,5 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 10px;
 
 }
